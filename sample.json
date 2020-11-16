@@ -1,0 +1,11 @@
+{
+"headers": {"Content-type: text/plain; charset=utf-8" 
+  {
+  "X-Author": "mileskinaolga7",
+    "Access-Control-Allow-Origin": "*"
+  }
+ function task(x) {
+  return x.toUpperCase();
+}
+}
+}
