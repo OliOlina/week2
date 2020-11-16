@@ -6,6 +6,6 @@
   }
 }
 }
- function task(x) {
- return x.toUpperCase():
+ function task(text/plain) {
+ return (text/plain).toUpperCase();
 }
