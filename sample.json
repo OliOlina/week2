@@ -4,8 +4,9 @@
   "X-Author": "mileskinaolga7",
     "Access-Control-Allow-Origin": "*"
   }
+}
  function task(x) {
-  return x.toUpperCase();
+ return x.toUpperCase();
 }
 }
-}
+
