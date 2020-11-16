@@ -7,5 +7,5 @@
 }
 }
  function task(x) {
- return x.toUpperCase();
+ return x.toUpperCase():
 }
